@@ -1,0 +1,52 @@
+body{
+  background-color: #E3FDFD;
+}
+
+.diego{
+  border-radius: 50%;
+}
+
+.contenedor{
+  padding: 7% 20% 0;
+}
+
+p{
+  text-align: justify;
+  line-height: 2;
+}
+
+
+/* cards */
+
+
+.card-header{
+  background-color: #71C9CE;
+  line-height: 0;
+}
+.card-body{
+  background-color: #CBF1F5;
+}
+.card-subTitle{
+  line-height: 1.2;
+}
+
+.personal{
+  margin: 0;
+  padding: 0;
+}
+
+.contacto{
+  display: grid;
+
+
+}
+
+.educacion{
+  line-height: 1;
+}
+
+/* .info{
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+} */
