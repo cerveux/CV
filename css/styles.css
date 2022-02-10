@@ -36,17 +36,31 @@ p{
 }
 
 .contacto{
-  display: grid;
+  width: 100%;
 
 
 }
 
 .educacion{
   line-height: 1;
+
+}
+.btn{
+  background-color: #71C9CE;
+}
+.btn-dark{
+  color: black;
+  background-color: transparent;
+  border: transparent;
+  font-size: 1.3rem;
+}
+.btn-dark:hover{
+
+  color: #71C9CE;
+  background-color: transparent;
 }
 
-/* .info{
-  position: -webkit-sticky;
-  position: sticky;
-  top: 0;
-} */
+#fin{
+  text-align: center;
+  padding: 3% 0 2%;
+}
